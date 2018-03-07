@@ -1,0 +1,8 @@
+{
+  "name": "prueba-ionic-pro",
+  "app_id": "6bd4386d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
